@@ -28,7 +28,7 @@ You can install the necessary packages using:
 Installation
 
     1.	Clone this repository:
-      git clone https://github.com/yourusername/AI-Virtual-Mouse.git
+      git clone https://github.com/Shivesh-22/AI-Virtual-Mouse.git
     2.	Navigate to the project directory:
       cd AI-Virtual-Mouse
 
